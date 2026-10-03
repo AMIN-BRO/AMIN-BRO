@@ -1,83 +1,206 @@
-# W-Amin — Crafting Reliable, Delightful Software ✨
+# 👋 Hey, I'm W-AMIN
 
-[![Profile badge](https://img.shields.io/badge/SarahSmileF-Open%20to%20collab-green)](https://github.com/SarahSmileF) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![Made with ❤️](https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red)
+### Building reliable software with a focus on simplicity, performance & great UX.
 
-Hello — I'm Sarah, a practical engineer who blends pragmatic architecture with human-centered design. I enjoy shipping resilient backends, dependable automation, and interfaces that feel intentional. This README was freshly and randomly generated to showcase a professional project overview and personal portfolio.
+I'm a practical software engineer who enjoys turning ideas into **clean, maintainable, and dependable products**. I care about readable code, thoughtful architecture, automation, and interfaces that are actually pleasant to use.
+
+> ⚡ **Build simply. Ship confidently. Improve continuously.**
 
 ---
 
-About me
-• Location: Remote (UTC)  
-• Pronouns: she/her  
-• Quick note: I value readable code, automated tests, and clear docs. I lean toward minimal, durable designs over clever-but-fragile hacks.
+## 🚀 About Me
 
-Core strengths (at-a-glance)
-- Systems thinking — designing services that survive change
-- Empathy-driven UX — solving real user pain, not hypotheticals
-- Automation-first — CI, infra as code, repeatable releases
+* 🌍 Remote developer
+* 💻 Focused on backend systems, automation & modern web development
+* 🧠 I enjoy solving real-world engineering problems
+* 🧪 Strong believer in testing and reliable releases
+* 📚 Always learning something new
+* 🤝 Open to interesting projects and collaborations
 
-Skills & proficiency
-- JavaScript / Node.js — ██████████ 93%
-- Python — █████████ 88%
-- Go — ████████ 76%
-- Cloud & DevOps (Docker, Kubernetes, CI/CD) — █████████ 81%
-- Testing & QA — █████████ 84%
-- UI / Frontend (React, accessibility) — ███████ 69%
+---
 
-Selected projects
-1) LumenCache — ultra-safe distributed cache for edge loads
-   - What: A fault-tolerant cache with automatic eviction contracts and observability-first instrumentation.
-   - Tech: Go, gRPC, Redis, Prometheus
-   - Takeaway: Reduced tail latency by 18% under production load.
-   - Link: https://github.com/SarahSmileF/lumencache
+## 🛠️ Tech Stack
 
-2) BeaconFlow — event-driven orchestration for analytics pipelines
-   - What: Low-latency event ingestion, dedup, and schema-migration-safe pipelines.
-   - Tech: Python, Kafka, PostgreSQL, Flyway
-   - Takeaway: Cut pipeline lag from minutes to seconds with backpressure-aware batching.
-   - Link: https://github.com/SarahSmileF/beaconflow
+### Languages
 
-3) StudioKit — accessible component library & design tokens
-   - What: A design system that enforces accessibility rules and design token consistency.
-   - Tech: TypeScript, React, Storybook, Jest
-   - Takeaway: Reduced UI regressions by 40% after adoption.
-   - Link: https://github.com/SarahSmileF/studiokit
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=fff)
 
-Tech stack highlights
-- Languages: TypeScript, Python, Go
-- Datastores: PostgreSQL, Redis
-- Infra: Docker, Kubernetes, Terraform
-- CI/CD: GitHub Actions, ArgoCD
-- Observability: Prometheus, Grafana, OpenTelemetry
+### Backend & Databases
 
-Notable achievements
-- 🏆 Architecture lead for a high-throughput system handling 1M+ events/day
-- 📈 Improved release cycle reliability — from weekly firefights to predictable rollouts
-- 🧪 Built a test harness that reduced flaky test rate by 67%
-- 🎓 Mentored 8+ developers through technical growth and design reviews
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=fff)
 
-How I work
-- Small, reviewable increments — frequent feedback prevents rework
-- Measure-driven decisions — A/B and telemetry guide product choices
-- Document intent — code + README + design notes
+### DevOps & Infrastructure
 
-Contact & socials
-- GitHub: https://github.com/SarahSmileF
-- Email: hi@sarah-smiles.dev
-- Twitter: @SarahSmileF (tech threads, architecture notes)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=fff)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=fff)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=fff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=fff)
 
-Commons & contributors
-Contributions, bug fixes, and improvements are welcome. If you open a PR, please include:
-- A short description of the change
-- Why it matters (user-facing concern or developer ergonomics)
-- Tests where applicable
+### Frontend
 
-License
-This repository uses the MIT license. See LICENSE for details.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=fff)
 
-Footer — a tiny status dashboard
-- Current focus: Platform reliability improvements ⚙️
-- Weekly sprint progress: 78% complete
-- Open to: mentoring, collaboration on observability & resilient systems
+---
 
-Thanks for stopping by — if something here resonates, open an issue or ping me on GitHub!
+## 💡 What I Like Building
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   ⚙️  Reliable Backend Systems              │
+│   🚀  Developer Tools & Automation           │
+│   🌐  Modern Web Applications                │
+│   📊  Data & Event-Driven Systems            │
+│   ☁️  Cloud & Infrastructure                 │
+│   🎨  Accessible & Thoughtful Interfaces     │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+## 📌 Featured Projects
+
+### ⚡ LumenCache
+
+> A fault-tolerant distributed cache designed for high-performance workloads.
+
+**Built with:** `Go` `gRPC` `Redis` `Prometheus`
+
+* Automatic eviction strategies
+* Observability-first architecture
+* Designed for resilient edge workloads
+* Improved tail latency under production load
+
+🔗 **[View Project](https://github.com/W-AMIN/lumencache)**
+
+---
+
+### 🌊 BeaconFlow
+
+> Event-driven orchestration for analytics and data pipelines.
+
+**Built with:** `Python` `Kafka` `PostgreSQL` `Flyway`
+
+* Low-latency event ingestion
+* Deduplication
+* Schema migration safety
+* Backpressure-aware batching
+
+🔗 **[View Project](https://github.com/W-AMIN/beaconflow)**
+
+---
+
+### 🎨 StudioKit
+
+> An accessible component library built around reusable design tokens.
+
+**Built with:** `TypeScript` `React` `Storybook` `Jest`
+
+* Accessible UI components
+* Consistent design tokens
+* Automated component testing
+* Developer-friendly documentation
+
+🔗 **[View Project](https://github.com/W-AMIN/studiokit)**
+
+---
+
+## 🧩 Engineering Principles
+
+### Keep it simple
+
+I prefer solutions that are easy to understand, maintain, and improve.
+
+### Automate the boring stuff
+
+If something happens repeatedly, it probably deserves automation.
+
+### Test what matters
+
+Good tests provide confidence without becoming a maintenance burden.
+
+### Design for change
+
+Requirements evolve. Systems should be built so changing them doesn't require rebuilding everything.
+
+### Measure, don't guess
+
+Logs, metrics, tests, and real user feedback are better than assumptions.
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=W-AMIN&show_icons=true&theme=tokyonight&hide_border=true" alt="W-AMIN's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=W-AMIN&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/W-AMIN/W-AMIN/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## 🎯 Currently
+
+```text
+🔭 Building       → Reliable & scalable software
+🌱 Learning       → Cloud architecture & distributed systems
+🧪 Improving      → Testing, observability & developer experience
+🤝 Open to        → Interesting projects & collaborations
+💬 Ask me about   → Backend, automation, APIs & system design
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/W-AMIN">
+  <img src="https://img.shields.io/badge/GitHub-W--AMIN-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="mailto:hi@sarah-smiles.dev">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 💬 A Little Philosophy
+
+> **"Readable code today is maintainable software tomorrow."**
+
+I believe great software isn't about using the most complicated technology.
+
+It's about choosing the **right tools**, understanding the **real problem**, and building something that people can rely on.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting! 👋</b>
+  <br>
+  <sub>Feel free to explore my repositories, open an issue, or start a conversation.</sub>
+</p>
+
+<p align="center">
+  ⭐ If you find something useful, consider giving the repository a star!
+</p>
