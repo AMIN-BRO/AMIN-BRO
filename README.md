@@ -1,4 +1,4 @@
-# 👋 Hey, I'm W-AMIN
+# 👋 Hey, I'm AMIN
 
 ### Building reliable software with a focus on simplicity, performance & great UX.
 
